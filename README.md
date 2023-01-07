@@ -15,10 +15,10 @@
 - 📫 How to reach me **alexvenmil@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnykid123&" alt="johnykid123" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=johnykid123&" alt="johnykid123" /></p>
 
 
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JohnyKid123&show_icons=true&theme=great-gatsby" alt="JohnyKid123" />
+<p align="centre"> <img src="https://github-readme-stats.vercel.app/api?username=JohnyKid123&show_icons=true&theme=great-gatsby" alt="JohnyKid123" />
