@@ -17,10 +17,10 @@
 - ⚡ Fun fact **Im a basketball player🏀**
 
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=johnykid123&" alt="johnykid123" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JohnyKid123&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohnyKid123&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyKid123&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-
-
-<p align="centre"> <img src="https://github-readme-stats.vercel.app/api?username=JohnyKid123&show_icons=true&theme=great-gatsby" alt="JohnyKid123" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
