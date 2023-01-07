@@ -11,7 +11,6 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnykid123&show_icons=true&locale=en&layout=compact" alt="johnykid123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnykid123&show_icons=true&title_color=1c9264&bg_color=069ffe&hide_border=true&locale=bg" alt="johnykid123" /></p>
 
