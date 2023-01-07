@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **alexvenmil@gmail.com**
 
+- ⚡ Fun fact **Im a basketball player🏀**
+
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=johnykid123&" alt="johnykid123" /></p>
 
