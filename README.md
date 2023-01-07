@@ -5,6 +5,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnykid123&label=Profile%20views&color=2acadf&style=plastic" alt="johnykid123" /> </p>
 
 - 🔭 I’m currently working on **C# Course and C++ Course**
