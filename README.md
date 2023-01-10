@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **C# Course and C++ Course**
 
-- 🌱 I’m currently learning **C# , C++ and JavaScript**
+- 🌱 I’m currently learning **Basics of back-end programing languages**
 
 - 🤝 I’m looking for help with **Sit-Academy**
 
