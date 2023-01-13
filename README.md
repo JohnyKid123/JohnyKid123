@@ -20,5 +20,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnyKid123&theme=radical&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quot
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
