@@ -20,7 +20,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnyKid123&theme=radical&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnykid123&show_icons=true&title_color=fd428d&text_color=f7d747&bg_color=141321&locale=en&layout=compact" alt="johnykid123" /></p>
 
 
 ### ✍️ Random Dev Quote
