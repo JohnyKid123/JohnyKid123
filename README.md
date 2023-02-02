@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=johnykid123&show_icons=true&title_color=fd428d&text_color=f7d747&bg_color=141321&locale=en" alt="johnykid123" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
