@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Basics of back-end programing languages**
 
-- 🤝 I’m looking for help with **Sit-Academy**
+- 🤝 I’m looking for help with **Sit-Academy and IT Cariera**
 
 - 📝 I regularly write articles on : mathematics and programing
 
