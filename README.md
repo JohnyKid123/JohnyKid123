@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Sit-Academy**
 
-- 📝 I regularly write articles on : mathematics and literature
+- 📝 I regularly write articles on : mathematics and programing
 
 - 📫 How to reach me **alexvenmil@gmail.com**
 
