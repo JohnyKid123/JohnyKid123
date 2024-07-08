@@ -14,7 +14,8 @@
 - 📫 How to reach me **alexvenmil@gmail.com**
 
 - ⚡ Fun fact **Im a basketball player🏀**
-- ⚔️ I am a LeetCode Warior too with over 750 solved problems
+  
+- ⚔️ I am a LeetCode Warrior too with **over 750 solved problems**
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
