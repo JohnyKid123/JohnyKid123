@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alexvenmil@gmail.com**
 
-- ⚡ Fun fact **Im a basketball player🏀**
+- ⚡ Fun fact **Im a basketball player and a model :)**
   
 - ⚔️ I am a LeetCode Warrior too with **over 750 solved problems**
 
