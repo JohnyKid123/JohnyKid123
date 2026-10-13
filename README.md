@@ -22,6 +22,8 @@
 
 ## 🛠️ Featured Code Contributions
 
+- **[MudBlazor — MudExpansionPanel accessibility (PR #14027, open)](https://github.com/MudBlazor/MudBlazor/pull/14027)** — added disclosure semantics (`role`, `aria-expanded`, `aria-controls`, `aria-disabled`) and regression tests. All 22 ExpansionPanel tests passed; the PR is **awaiting a maintainer decision** on consistent Space-key handling ([#13855](https://github.com/MudBlazor/MudBlazor/issues/13855)). **Not merged yet**.
+
 - **[MudBlazor — merged MudTreeView accessibility fix (PR #14019)](https://github.com/MudBlazor/MudBlazor/pull/14019)** — added accessible names to multi-selection tree checkboxes using their visible labels, avoiding duplicate screen-reader announcements. Added regression tests, verified the before/after difference with axe DevTools, and passed 84 TreeView tests. **Merged into MudBlazor `dev`**.
 
 - **[MudBlazor — merged MudNavGroup accessibility fix (PR #14017)](https://github.com/MudBlazor/MudBlazor/pull/14017)** — removed unnamed nested navigation landmarks in grouped navigation, added regression tests, and verified the result with before/after axe DevTools scans. **Merged into MudBlazor `dev`**.
