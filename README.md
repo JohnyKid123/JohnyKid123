@@ -20,6 +20,10 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
+## 🛠️ Featured Code Contributions
+
+- **[Blazor AI ChatBot — secure credential handling](https://github.com/JohnyKid123/Blazor-AI-ChatBot/pull/1)** — improved API key configuration, removed sensitive logging, and added safer local setup instructions for a C# / Blazor application.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnyKid123&theme=radical&hide_border=false)<br/>
 
