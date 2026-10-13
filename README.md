@@ -22,6 +22,8 @@
 
 ## 🛠️ Featured Code Contributions
 
+- **[MudBlazor — merged MudNavGroup accessibility fix (PR #14017)](https://github.com/MudBlazor/MudBlazor/pull/14017)** — removed unnamed nested navigation landmarks in grouped navigation, added regression tests, and verified the result with before/after axe DevTools scans. **Merged into MudBlazor `dev`**.
+
 - **[MudBlazor — merged accessibility fix (PR #14011)](https://github.com/MudBlazor/MudBlazor/pull/14011)** — fixed accessible names for the rows-per-page controls in `MudTablePager` and `MudDataGridPager`. Added bUnit regression tests, validated with axe DevTools, and passed all upstream CI checks. **Merged into MudBlazor `dev`**.
 
 - **[Blazor AI ChatBot — secure credential handling](https://github.com/JohnyKid123/Blazor-AI-ChatBot/pull/1)** — improved API key configuration, removed sensitive logging, and added safer local setup instructions for a C# / Blazor application.
