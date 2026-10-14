@@ -22,6 +22,10 @@
 
 ## 🛠️ Featured Code Contributions
 
+- **[Elsa Workflows — merged CRON validation fix (PR #8826)](https://github.com/elsa-workflows/elsa-core/pull/8826)** — updated C# workflow trigger validation to handle malformed cron expressions from both Cronos and Quartz, while preserving unexpected error handling. Added four regression tests; all 66 Scheduling unit tests passed. **Merged into Elsa Workflows `main`**.
+
+- **[Elsa Workflows — merged JSON deserialization fix (PR #8825)](https://github.com/elsa-workflows/elsa-core/pull/8825)** — fixed null, missing, and malformed memory-reference handling when deserializing workflow outputs. Added focused regression tests and an unbound-output round-trip test; all 363 Core unit tests passed. **Merged into Elsa Workflows `main`**.
+
 - **[MudBlazor — MudExpansionPanel accessibility (PR #14027, open)](https://github.com/MudBlazor/MudBlazor/pull/14027)** — added disclosure semantics (`role`, `aria-expanded`, `aria-controls`, `aria-disabled`) and regression tests. All 22 ExpansionPanel tests passed; the PR is **awaiting a maintainer decision** on consistent Space-key handling ([#13855](https://github.com/MudBlazor/MudBlazor/issues/13855)). **Not merged yet**.
 
 - **[MudBlazor — merged MudTreeView accessibility fix (PR #14019)](https://github.com/MudBlazor/MudBlazor/pull/14019)** — added accessible names to multi-selection tree checkboxes using their visible labels, avoiding duplicate screen-reader announcements. Added regression tests, verified the before/after difference with axe DevTools, and passed 84 TreeView tests. **Merged into MudBlazor `dev`**.
