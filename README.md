@@ -22,6 +22,14 @@
 
 ## 🛠️ Featured Code Contributions
 
+- **[Elsa Workflows — merged duplicate bookmark ID fix (PR #8879)](https://github.com/elsa-workflows/elsa-core/pull/8879)** — prevented duplicate bookmark IDs when restoring background activities. **Merged into Elsa Workflows `main`**.
+
+- **[Elsa Workflows — merged Studio agents menu fix (PR #8830)](https://github.com/elsa-workflows/elsa-core/pull/8830)** — hide the agents menu when the backend feature is unavailable. **Merged into Elsa Workflows `main`**.
+
+- **[Elsa Workflows — merged labels cleanup (PR #8829)](https://github.com/elsa-workflows/elsa-core/pull/8829)** — clean up labels when workflow versions are deleted. **Merged into Elsa Workflows `main`**.
+
+- **[Elsa Workflows — merged cron null/whitespace validation (PR #8828)](https://github.com/elsa-workflows/elsa-core/pull/8828)** — validate null and whitespace cron expressions. **Merged into Elsa Workflows `main`**.
+
 - **[Elsa Workflows — merged CRON validation fix (PR #8826)](https://github.com/elsa-workflows/elsa-core/pull/8826)** — updated C# workflow trigger validation to handle malformed cron expressions from both Cronos and Quartz, while preserving unexpected error handling. Added four regression tests; all 66 Scheduling unit tests passed. **Merged into Elsa Workflows `main`**.
 
 - **[Elsa Workflows — merged JSON deserialization fix (PR #8825)](https://github.com/elsa-workflows/elsa-core/pull/8825)** — fixed null, missing, and malformed memory-reference handling when deserializing workflow outputs. Added focused regression tests and an unbound-output round-trip test; all 363 Core unit tests passed. **Merged into Elsa Workflows `main`**.
