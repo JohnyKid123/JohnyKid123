@@ -22,6 +22,10 @@
 
 ## 🛠️ Featured Code Contributions
 
+- **[Elsa Workflows — merged "Cancelling" sub-status for workflow cancellation (PR #9115)](https://github.com/elsa-workflows/elsa-core/pull/9115)** — persisted a new `Cancelling` sub-status before cancellation is dispatched, using conditional store writes across Memory, EF Core, Dapper, MongoDB and Elasticsearch, and restoring the previous sub-status if cancellation fails. Fixes bounty issue [#5187](https://github.com/elsa-workflows/elsa-core/issues/5187); milestone 3.11. **Merged into Elsa Workflows `main`**.
+
+- **[Orchard Core — merged Content Edit breadcrumb fix (PR #20153)](https://github.com/OrchardCMS/OrchardCore/pull/20153)** — added the listable content type to the edit-page breadcrumb, linking back to the filtered content list (or a local `returnUrl`). Fixes [#6666](https://github.com/OrchardCMS/OrchardCore/issues/6666); added 14 `ContentsBreadcrumbTests`. My first Orchard Core contribution. **Merged into Orchard Core `main`**.
+
 - **[Elsa Workflows — merged duplicate bookmark ID fix (PR #8879)](https://github.com/elsa-workflows/elsa-core/pull/8879)** — prevented duplicate bookmark IDs when restoring background activities. **Merged into Elsa Workflows `main`**.
 
 - **[Elsa Workflows — merged Studio agents menu fix (PR #8830)](https://github.com/elsa-workflows/elsa-core/pull/8830)** — hide the agents menu when the backend feature is unavailable. **Merged into Elsa Workflows `main`**.
